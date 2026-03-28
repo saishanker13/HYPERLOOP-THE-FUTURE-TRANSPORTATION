@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import { ReactLenis } from '@studio-freight/react-lenis';
 import Loader from './components/Loader';
@@ -39,3 +40,18 @@ function App() {
 
 export default App;
 
+=======
+import React from 'react'
+import HyperloopStory from './HyperloopStory'
+import './index.css' // We might not need this if not existing, but vite creates it. We will keep what we need.
+
+function App() {
+  return (
+    <>
+      <HyperloopStory />
+    </>
+  )
+}
+
+export default App
+>>>>>>> 9d25d099781053e242dc412cb1af4fb8fba13ef4
