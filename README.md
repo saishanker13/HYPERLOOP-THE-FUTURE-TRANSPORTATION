@@ -1,16 +1,41 @@
-# React + Vite
+# Hyperloop – Interactive Storytelling Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This project is an interactive storytelling website that presents the concept of Hyperloop transportation through immersive scroll-based animations, transitions, and interactive UI elements. Instead of a traditional static website, this project creates a narrative-driven web experience where users explore content through scrolling, animations, and interactive components.
 
-Currently, two official plugins are available:
+## Story Structure
+The website follows a storytelling structure:
+1. Hero Section – Introduction to Hyperloop
+2. Introduction – Concept and idea
+3. Exploration – How Hyperloop technology works
+4. Insight – Future impact and advantages
+5. Conclusion – Final message and call to action
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Scroll-based animations using GSAP
+- Interactive UI elements and hover effects
+- Smooth transitions and section reveals
+- Responsive design for desktop, tablet, and mobile
+- Animated storytelling sections
+- Modern UI inspired by Awwwards-style websites
 
-## React Compiler
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React (Vite)
+- GSAP Animation Library
+- Tailwind CSS
+- Vercel (Deployment)
+- GitHub (Version Control)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Live Website
+https://hyperloop-the-future-transportation-five.vercel.app
 
-## Expanding the ESLint configuration
+## GitHub Repository
+https://github.com/saishanker13/HYPERLOOP-THE-FUTURE-TRANSPORTATION
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Goal
+The goal of this project is to demonstrate how storytelling, animation, and interactive design can be combined to present technical and futuristic concepts in an engaging and visually appealing way.
+
+This project focuses on creativity, animation, user experience design, and modern frontend development techniques.
